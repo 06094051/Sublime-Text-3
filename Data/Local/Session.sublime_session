@@ -27,17 +27,45 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 375.0,
-				"last_filter": "Package Control: ",
+				"height": 160.0,
+				"last_filter": "Package Control: in",
 				"selected_items":
 				[
 					[
-						"Package Control: ",
+						"Package Control: in",
 						"Package Control: Install Package"
 					],
 					[
-						"Package Control: in",
+						"Package Control:ins",
 						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
 						"en",
@@ -56,7 +84,7 @@
 						"Package Control: Install Package→安装插件"
 					]
 				],
-				"width": 458.0
+				"width": 514.0
 			},
 			"console":
 			{
@@ -76,10 +104,13 @@
 			},
 			"file_history":
 			[
+				"/C/Program Files/Sublime-Text-3/Data/Packages/User/Default (Linux).sublime-keymap",
+				"/C/Program Files/Sublime-Text-3/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files/Sublime-Text-3/Data/Packages/Default/Default (Windows).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -93,6 +124,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"package",
+					"install"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -117,7 +150,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -155,7 +188,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":

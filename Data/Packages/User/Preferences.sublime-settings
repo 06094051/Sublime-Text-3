@@ -1,5 +1,6 @@
 {
-	"font_size": 23.0,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SublimePythonIDE) (SL).tmTheme",
+	"font_size": 19,
 	"ignored_packages":
 	[
 		"Vintage"

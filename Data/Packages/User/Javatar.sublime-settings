@@ -1,0 +1,22 @@
+{
+	"jdk_version":
+	{
+		"JDK1.7.0u45":
+		{
+			"path": "C:\\Program Files\\Java\\jdk1.7.0_45\\bin",
+			"update": "45",
+			"version": "1.7.0"
+		},
+		"JDK1.8.0u65":
+		{
+			"path": "C:\\Program Files (x86)\\Java\\jdk1.8.0_65\\bin",
+			"update": "65",
+			"version": "1.8.0"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+	}
+}
